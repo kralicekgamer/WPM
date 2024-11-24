@@ -3,7 +3,6 @@ discord|https://github.com/kralicekgamer/WPM/discord/{channel}/setup|exe|latest|
 vscode|https://github.com/kralicekgamer/WPM/vsc/{channel}/setup|exe|latest|Kralyks WPM
 tor-browser|https://github.com/kralicekgamer/WPM/tor-browser/{channel}/setup|exe|latest|Kralyks WPM
 zen-browser|https://github.com/kralicekgamer/WPM/zen-browser/{channel}/setup|exe|latest|Kralyks WPM
-blender|https://github.com/kralicekgamer/WPM/blender/{channel}/setup|exe|latest|Kralyks WPM
 krita|https://github.com/kralicekgamer/WPM/krita/{channel}/setup|exe|latest|Kralyks WPM
 python|https://github.com/kralicekgamer/WPM/python/{channel}/setup|exe|latest|Kralyks WPM
 spotify|https://github.com/kralicekgamer/WPM/spotify/{channel}/setup|exe|latest|Kralyks WPM
