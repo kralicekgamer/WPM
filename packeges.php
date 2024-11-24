@@ -1,0 +1,15 @@
+chrome|https://github.com/kralicekgamer/WPM/chrome/{channel}/setup|exe|latest|Kralyks WPM
+discord|https://github.com/kralicekgamer/WPM/discord/{channel}/setup|exe|latest|Kralyks WPM
+vscode|https://github.com/kralicekgamer/WPM/vsc/{channel}/setup|exe|latest|Kralyks WPM
+tor-browser|https://github.com/kralicekgamer/WPM/tor-browser/{channel}/setup|exe|latest|Kralyks WPM
+zen-browser|https://github.com/kralicekgamer/WPM/zen-browser/{channel}/setup|exe|latest|Kralyks WPM
+blender|https://github.com/kralicekgamer/WPM/blender/{channel}/setup|exe|latest|Kralyks WPM
+krita|https://github.com/kralicekgamer/WPM/krita/{channel}/setup|exe|latest|Kralyks WPM
+python|https://github.com/kralicekgamer/WPM/python/{channel}/setup|exe|latest|Kralyks WPM
+spotify|https://github.com/kralicekgamer/WPM/spotify/{channel}/setup|exe|latest|Kralyks WPM
+firefox|https://github.com/kralicekgamer/WPM/firefox/{channel}/setup|exe|latest|Kralyks WPM
+libreoffice|https://github.com/kralicekgamer/WPM/libre-office/{channel}/setup|msi|latest|Kralyks WPM
+telegram|https://github.com/kralicekgamer/WPM/telegram/{channel}/setup|exe|latest|Kralyks WPM
+vlc|https://github.com/kralicekgamer/WPM/vlc/{channel}/setup|exe|latest|Kralyks WPM
+7zip|https://github.com/kralicekgamer/WPM/7zip/{channel}/setup|exe|latest|Kralyks WPM
+adobe-acrobat-reader|https://github.com/kralicekgamer/WPM/adobe-acrobat-reader/{channel}/setup|exe|latest|Kralyks WPM
